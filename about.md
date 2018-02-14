@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! I'm glad you came to visit. This website is still in its very very beginning stages, and I'm not even quite sure what to do with it yet. Anyways, enjoy whatever content that has already been posted.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+It's all about balance.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alexzhang02030203@gmail.com](mailto:alexzhang02030203@gmail.com)

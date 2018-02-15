@@ -6,6 +6,8 @@ permalink: /:year/:month/:title
 
 ---
 
+Nah no we dont.
+
 First, we'll need to establish why reading is necessary in the first place.
 
 When you read a nonfiction book, you are essentially reliving the author's experience (be it life, research, or other topics), but at a significantly faster pace. You can essentially absorb hundreds or even thousands of hours of experiences in just a few hours. You'll be able to learn at a much quicker rate as well.

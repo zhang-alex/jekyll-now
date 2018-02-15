@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: First: Post
 date: 2018-2-14 14:35:05 -0600
 ---
 

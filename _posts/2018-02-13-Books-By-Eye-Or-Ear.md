@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Books: By eye or ear?
-date:
+date: 2018-02-13 15:35:05 -0600
 permalink: /:year/:month/:title
 
 ---
